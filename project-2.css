@@ -84,7 +84,7 @@ body {
   opacity: 1;
 }
 
-.image-container:active .active-division {
+.image-container:hover .active-division {
   opacity: 0.5;
 }
 
