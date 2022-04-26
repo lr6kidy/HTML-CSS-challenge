@@ -101,7 +101,7 @@ h1 {
   cursor: pointer;
 }
 
-.title:hover {
+h1:hover {
   color: hsl(178, 100%, 50%);
 }
 
