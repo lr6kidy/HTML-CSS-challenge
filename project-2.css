@@ -80,7 +80,7 @@ body {
 }
 
 
-.image-container:active .active-icon {
+.image-container:hover .active-icon {
   opacity: 1;
 }
 
@@ -101,7 +101,7 @@ h1 {
   cursor: pointer;
 }
 
-.title:active {
+.title:hover {
   color: hsl(178, 100%, 50%);
 }
 
@@ -174,7 +174,7 @@ strong {
   cursor: pointer;
 }
 
-strong:active {
+strong:hover {
   color: hsl(178, 100%, 50%);
 }
 
